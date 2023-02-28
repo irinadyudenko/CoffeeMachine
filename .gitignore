@@ -1,0 +1,35 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Coffee Machine/*
+!/Coffee Machine/task/
+/Coffee Machine/task/*
+!/Coffee Machine/task/src
+
+# Project exclude paths
+/Topics/Debugging techniques/Find the error/out/
+/Topics/Debugging techniques/Find the error/out/production/classes/
+/Topics/Declaring a method/The sign of a number/out/
+/Topics/Declaring a method/The sign of a number/out/production/classes/
+/Topics/Enums in Java/Days of week/out/
+/Topics/Enums in Java/Days of week/out/production/classes/
+/Topics/Enums in Java/Hidden enumeration/out/
+/Topics/Enums in Java/Hidden enumeration/out/production/classes/
+/Topics/Functional decomposition/Kate's math function/out/
+/Topics/Functional decomposition/Kate's math function/out/production/classes/
+/Topics/Hierarchy of exceptions/Base class/out/
+/Topics/Hierarchy of exceptions/Base class/out/production/classes/
+/Topics/Overloading/Print/out/
+/Topics/Overloading/Print/out/production/classes/
